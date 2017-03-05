@@ -1,0 +1,49 @@
+body {
+    font-family: Cabin;
+    font-size: 16px;
+}
+#header { background-color: #fff;  
+}
+#footer { background-color: #fff; }
+#sidebar { background-color: #fff; 
+}
+#content { background-color: #fff; }
+
+h1 {
+    font-family: Cabin;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+img.large {
+    width: 500px;
+}
+img.medium {
+    width: 250px;
+}
+img.small {
+    width: 100px;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 10px;
+}
+img.align-right {
+    float: right;
+    margin-left: 10px;
+}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;
+}
+
+ul {
+    padding: 10px;
+}
+    
